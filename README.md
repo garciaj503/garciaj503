@@ -1,6 +1,7 @@
 # 🇸🇻 Jaime Garcia
+Passionate learner. Always seeking to improve and learn.
 
-# 💫 About Me:
+# 💫 A Little Bit About Me and My Interests:
 ```yaml
 name: Jaime Garcia
 located_in: College Place, Washington
@@ -22,12 +23,12 @@ fields_of_interest:
   ]
 
 currently_learning: ["Docker, Bash Scripting, SQL, FastAPI"]
-2026_goals; ["
-
+2026_goals: ["Build a full-stack web application and deploy it to the web"]
+hobbies: ["tennis, pickleball, racquetball, gym"]
 ```
 
 
-## 🌐 Socials:
+## 🌐 Social Media:
   <a href="https://www.instagram.com/_.jaimegarcia/" target="blank">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
@@ -48,8 +49,3 @@ currently_learning: ["Docker, Bash Scripting, SQL, FastAPI"]
 ![](https://github-readme-stats.vercel.app/api?username=garciaj503&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=garciaj503&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=garciaj503&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=garciaj503&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
