@@ -1,8 +1,30 @@
 # 🇸🇻 Jaime Garcia
 
 # 💫 About Me:
-- Love coding
-- Strong interest in backend development, web application development, DevOps, and healthcare IT
+```yaml
+name: Jaime Garcia
+located_in: College Place, Washington
+current_job: Student
+education:
+  [
+    "Bachelors of Science in Computer Science, Minor in Mathematics",
+    "High School Diploma,
+  ]
+
+fields_of_interest:
+  [
+    "Web Application Development",
+    "Backend Development",
+    "Cloud Engineering:,
+    "DevOps",
+    "Healthcare IT",
+    "Cybersecutiry"
+  ]
+
+currently_learning: ["Docker, Bash Scripting, SQL, FastAPI"]
+2026_goals; ["
+
+```
 
 
 ## 🌐 Socials:
