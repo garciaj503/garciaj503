@@ -1,4 +1,6 @@
-# 🇸🇻 Jaime Garcia
+<h1 align=center>
+  Hi👋, I'm Jaime🇸🇻
+</h1>
 Passionate learner. Always seeking to improve and learn.
 
 # 💫 A Little Bit About Me and My Interests:
